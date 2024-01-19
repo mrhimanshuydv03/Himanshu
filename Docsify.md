@@ -8,7 +8,7 @@
 
 [3. Features of docsify- ](#3-features-of-docsify)
 
-[4. Advantage and disadvantage of Docsify- ](#4-advantage-and-disadvantage-of-docsify)
+[4. Advantage and Disadvantage of Docsify- ](#4-advantage-and-disadvantage-of-docsify)
 
 [5. Step by step guide to installation and Setup-](#5-step-by-step-guide-to-installation-and-setup)
 
