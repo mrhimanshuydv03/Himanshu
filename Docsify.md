@@ -2,7 +2,7 @@
 
 # TABLE OF CONTENT 
 
-[1.What is Docsify ? ](#1what-is-docsify)
+[1.What is Docsify ? ](#1-what-is-docsify)
 
 [2.Why Docsify ?](#2why-docsify)
 
