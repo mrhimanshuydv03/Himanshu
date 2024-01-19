@@ -4,7 +4,7 @@
 
 [1.What is Docsify ? ](#1-what-is-docsify)
 
-[2.Why Docsify ?](#2why-docsify)
+[2.Why Docsify ?](#2why-docsify-)
 
 [3. Features of docsify- ](#3-features-of-docsify)
 
