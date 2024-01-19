@@ -8,7 +8,7 @@
 
 [3. Features of docsify](#3-features-of-docsify--)
 
-[4. Advantage and Disadvantage of Docsify ](#4-advantage-and-Disadvantage-of-docsify-)
+[4. Advantages and Disadvantages of Docsify ](#4-Advantages-and-Disadvantages-of-docsify-)
 
 [5. Step by step guide to installation and Setup](#5-step-by-step-guide-to-installation-and-setup)
 
@@ -70,7 +70,7 @@ When we say "compatible with IE11" in the context of Docsify, it means that Docs
 instead of relying on the user's browser to do all the work to display the content, Docsify can get some assistance from the server. This helps in making sure that the content is ready to be shown when the user asks for it, making the experience faster and more efficient.  
 
 
-# 4. Advantage and disadvantage of Docsify-
+# 4. Advantages and Disadvantages of Docsify-
 
 ## Advantages of Docsify:
 
