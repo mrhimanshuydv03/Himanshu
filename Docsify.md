@@ -106,11 +106,11 @@ Step 1: Install Node.js and npm
 
 * Update the package list to make sure you have the latest 
 ```
-su
+'su'
 ```
 If you run su without specifying a username, it will prompt you for the root (administrative) password, and upon entering the correct password, you'll switch to the root user account, giving you elevated privileges.
 ```
-sudo apt update
+sudo apt update:
 ```
 
 
