@@ -106,11 +106,11 @@ Step 1: Install Node.js and npm
 
 * Update the package list to make sure you have the latest 
 ```
-'su'
+su
 ```
-If you run su without specifying a username, it will prompt you for the root (administrative) password, and upon entering the correct password, you'll switch to the root user account, giving you elevated privileges.
+If you run 'su' without specifying a username, it will prompt you for the root (administrative) password, and upon entering the correct password, you'll switch to the root user account, giving you elevated privileges.
 ```
-sudo apt update:
+sudo apt update
 ```
 
 
@@ -119,7 +119,7 @@ sudo: This is a command that stands for "superuser do." It is used to execute co
 
 apt: Stands for "Advanced Package Tool." It is a package management system used in Ubuntu for installing, updating, and removing software packages.
 
-update, it instructs the package management system to update its information about available software packages.
+update: it instructs the package management system to update its information about available software packages.
 ```
 vboxuser@Hunny:~$ su
 Password:
